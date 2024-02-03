@@ -1,0 +1,23 @@
+.moviediv{
+    border: solid 2px;
+    width: 560px;
+    height: 315px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: auto;
+    
+}
+*{
+    background-color: antiquewhite;
+}
+
+input{
+    margin-top: 40px;
+    margin-left: 500px;
+    margin-right: auto;
+    border: solid 3px;
+    text-size-adjust: 10px;
+    height: 30px;
+    width: 400px;
+}
